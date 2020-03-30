@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.watermelon</groupId>
+  <artifactId>watermelon-backend</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200330075512</lastUpdated>
+  </versioning>
+</metadata>
